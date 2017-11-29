@@ -1,4 +1,4 @@
-package alex.consulting.com.testing;
+package alex.consulting.com.testing.PreTask;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
